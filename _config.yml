@@ -1,0 +1,11 @@
+title: "Politgeist"
+description: "Politics and Japanese Supernatural Culture"
+baseurl: ""
+url: "https://madelineshrader.github.io/politgeist"
+
+markdown: kramdown
+theme: null
+
+collections:
+  posts:
+    output: true
